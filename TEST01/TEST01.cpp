@@ -7,5 +7,6 @@ int main(){
 	cout << "Введите 2 числа для сложения: ";
 	cin >> a;
 	cin >> b;
+	cout << "aaa";
 	cout << a + b << endl;
 }
